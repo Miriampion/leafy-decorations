@@ -3,11 +3,11 @@ html {
 }
 
 .masthead {
-background: url("../images/leaf-bg.svg");
-background-color: #588477;
-background-size: 64px;
-border-top: solid 3px #145b1d;
-border-bottom: solid 3px #145b1d;
+  background: url("../images/leaf-bg.svg");
+  background-color: #588477;
+  background-size: 64px;
+  border-top: solid 3px #145b1d;
+  border-bottom: solid 3px #145b1d;
 }
 
 .logo {
@@ -34,7 +34,7 @@ border-bottom: solid 3px #145b1d;
 }
 
 .banner {
-  padding-top: 325px;
+  padding-top: 305px;
   background:
   url("../images/two-leaves.svg") no-repeat left 15px center / 70px,
   url("../images/banner.jpg") bottom / cover;

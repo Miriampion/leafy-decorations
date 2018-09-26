@@ -42,7 +42,7 @@ border-bottom: solid 3px #145b1d;
 
 .banner-content {
   color: #fff;
-  background: linear-gradient(rgba(16, 52, 41, 0), (rgba(16, 52, 41, .8));
+  background: linear-gradient(rgba(16, 52, 41, 0), rgba(16, 52, 41, .8));
 }
 
 @media only screen and (min-width: 60em) {
